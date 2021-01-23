@@ -1,2 +1,1 @@
-# Hackathon #2 - Data Wrangling
-Evaluation metric: AUC ROC
+purchases returned prediction for an online shop.
